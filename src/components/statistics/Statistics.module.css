@@ -1,0 +1,29 @@
+.statistics {
+    border: 1px solid;
+    background-color: rgba(165, 184, 183, 0.531);
+    margin: 40px;
+    width: 400px;
+   
+}
+
+.statistics_title,
+.statistics_list{
+   
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+}
+
+.statistics_item{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center
+
+}
+
+.statistics_label{
+margin-right: 5px;
+}
+
